@@ -1,1 +1,1 @@
-# -ultimate-rust2
+# ultimate-rust2
